@@ -1,0 +1,9 @@
+.suggestionListContainer {
+  border: 1px solid grey;
+  border-radius: 5px;
+  box-shadow: inset;
+}
+
+.suggestionListContainer li {
+  list-style-type: decimal;
+}
